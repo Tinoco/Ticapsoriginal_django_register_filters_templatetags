@@ -1,3 +1,3 @@
-# Ticapsoriginal_django_register_filters_templatetags
+# Ticapsoriginal Django Register Filters Templatetags
 Ticapsoriginal Useful Django Register Filters Template tags Extras File
 
