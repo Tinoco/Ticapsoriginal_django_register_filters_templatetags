@@ -23,6 +23,11 @@ Ticapsoriginal Useful Django Register Filters Template tags Extras File
 
 ![](https://ticapsoriginal.com/static/register2.png)
 
+* sintax : 
+
+{% load search_extras %}{{ search.forceUrl|rephttps }}
+{% load your_extra_file_name %}{{ data_input|register_filter_name }}
+
 
 ## quality:
 * [`100% pycodestyle coverage`](https://pypi.org/project/pycodestyle/)
