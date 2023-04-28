@@ -15,13 +15,14 @@ Ticapsoriginal Useful Django Register Filters Template tags Extras File
 
 * start your django project 
 * create your core app 
-* make directory templatetags like this :
+* make directory templatetags inside your coreapp folder like this :
 
 ![](https://ticapsoriginal.com/static/register1.png)
 
-* in your template load and use django filter register like this :
+* in your template file input extra load and use django filter register like this :
 
 ![](https://ticapsoriginal.com/static/register2.png)
+
 
 ## quality:
 * [`100% pycodestyle coverage`](https://pypi.org/project/pycodestyle/)
